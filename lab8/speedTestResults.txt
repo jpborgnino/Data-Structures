@@ -1,0 +1,28 @@
+What would you like L to be?: 20
+
+Enter # strings to insert into ULLMap: 2000
+class ULLMap: 0.03 sec
+
+Enter # strings to insert into your MyHashMap: 2000
+class MyHashMap: 0.02 sec
+
+Enter # strings to insert into Java's HashMap: 2000
+Java's Built-in HashMap: 0.00 sec
+
+
+What would you like L to be?: 50
+
+Enter # strings to insert into ULLMap: 10000
+class ULLMap: 0.66 sec
+
+Enter # strings to insert into your MyHashMap: 10000
+class MyHashMap: 0.05 sec
+
+Enter # strings to insert into Java's HashMap: 10000
+Java's Built-in HashMap: 0.02 sec
+
+Would you like to try more timed-tests? (y/n)
+
+
+I think its more efficient to use it when you need to save memory, and also
+to keep track of very specific variable such as a heap does.

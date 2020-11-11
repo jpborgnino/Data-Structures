@@ -1,0 +1,15 @@
+Please enter desired length of each string: 20
+
+Enter # strings to insert into the maps: 20000
+class ULLMap: 2.24 sec
+class BSTMap: 0.03 sec
+Java's Built-in TreeMap: 0.03 sec
+
+
+
+Please enter desired length of each string: 33
+
+Enter # strings to insert into the maps: 900000
+--Stack Overflow -- couldn't add 900000 strings of length 33.
+class BSTMap: 1.75 sec
+Java's Built-in TreeMap: 1.77 sec

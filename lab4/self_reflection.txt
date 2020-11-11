@@ -1,0 +1,63 @@
+All questions are optional, though try to answer at least 4. The main goal of this file is to get you thinking critically about your own work, but we will also use these self reflections at the end of the semester when we do our internal review of the course.
+
+ArrayDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: Since I made my code with a different approach none.
+
+Q: What's something you felt proud of in your code, if anything? 
+
+A: After talking to people, I noticed that nobody used the same approach as me, which made my code feel unique.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: I think my resize method is a little too long.
+
+Q: What did you learn by talking to your partner about writing ArrayDeque?
+
+A: I learned about his approach and the different ways to store data in an array.
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A: I wish I would have known that I didn’t necessarily need to have my data in order, as long as I can get it using the index.
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A: I would try using the approach that wraps around the array.
+
+-----
+
+LinkedListDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: none
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: I was proud of the little helped functions I created to help my code.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A:I think my get recursive wasn’t very elegant, also my copy function was not the best solution.
+
+Q: What did you learn by talking to your partner about writing LinkedListDeque?
+
+A: I learned about a few different approaches for functions that I struggled with.
+
+Q: What do you wish you would have known before writing LinkedListDeque, if anything?
+
+A: I wish I would have known better recursive methods for solving functions.
+
+Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
+
+A: I would apply better receives methods for copy linkedlistdeque and get recursive.
+
+-----
+
+Meta:
+
+Q: Did you like this design review process? Anything we should do differently next time?
+
+A: It was interesting, but you could have saved people time by making hug or a gsi go over it in a youtube video.
